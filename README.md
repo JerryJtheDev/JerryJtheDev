@@ -38,7 +38,7 @@ I'm a passionate **Software Engineer** with experience in HTML, CSS, python, Rea
 
 ## Get in Touch 📬
 
-- **[Personal Website / Blog]**(your_website_or_blog_link)
+- **[Personal Website / Blog]**(https://jerry-portfolio-tan.vercel.app/)
 - **[LinkedIn]**(your_linkedin_profile_link)
 - **[Twitter]**(your_twitter_profile_link)
 
